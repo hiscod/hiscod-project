@@ -1,1 +1,1 @@
-Download raw data in csv format (UTF-8, colon separated).
+Download raw data in csv format (UTF-8, semicolon separated).
