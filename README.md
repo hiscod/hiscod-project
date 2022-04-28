@@ -1,4 +1,4 @@
-# Welcome to the Github repository for the HiSCoD project
+# Github repository for the HiSCoD project
 
 To learn more about the _Historical Social Conflict Database_ (HiSCoD), please see our homepage at [https://www.unicaen.fr/hiscod](https://www.unicaen.fr/hiscod). See also our [working paper](https://www.zora.uzh.ch/id/eprint/217109) for additional information on the construction of the database.
 
@@ -26,4 +26,3 @@ Chambru, Cédric and Maneuvrier-Hervieu, Paul (2022). Introducing HiSCoD: A New 
 
 <br/>
 
-More coming soon!
